@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+  <Worksheet ss:Name="addrbook">
+    <Table>
+      <Row>
+        <Cell><Data ss:Type="String">HURIGANA</Data></Cell>
+        <Cell><Data ss:Type="String">NAME</Data></Cell>
+        <Cell><Data ss:Type="String">EMAIL</Data></Cell>
+        <Cell><Data ss:Type="String">ORGANIZATION</Data></Cell>
+        <Cell><Data ss:Type="String">DEPART</Data></Cell>
+        <Cell><Data ss:Type="String">TITLE</Data></Cell>
+        <Cell><Data ss:Type="String">TEL1</Data></Cell>
+        <Cell><Data ss:Type="String">TEL2</Data></Cell>
+        <Cell><Data ss:Type="String">TEL3</Data></Cell>
+        <Cell><Data ss:Type="String">FAX</Data></Cell>
+        <Cell><Data ss:Type="String">COUNTRY</Data></Cell>
+        <Cell><Data ss:Type="String">ZIPCODE</Data></Cell>
+        <Cell><Data ss:Type="String">STATE</Data></Cell>
+        <Cell><Data ss:Type="String">CITY</Data></Cell>
+        <Cell><Data ss:Type="String">ADDRESS</Data></Cell>
+        <Cell><Data ss:Type="String">URL</Data></Cell>
+        <Cell><Data ss:Type="String">MEMO</Data></Cell>
+        <Cell><Data ss:Type="String">ADDRPATH</Data></Cell>
+        <Cell><Data ss:Type="String">EXT_FIELD1</Data></Cell>
+        <Cell><Data ss:Type="String">EXT_FIELD2</Data></Cell>
+        <Cell><Data ss:Type="String">EXT_FIELD3</Data></Cell>
+      </Row>
+      <Row>
+        <Cell><Data ss:Type="String">かわにしひでとし</Data></Cell>
+        <Cell><Data ss:Type="String">川西秀俊</Data></Cell>
+        <Cell><Data ss:Type="String">kawanishi@j-daika.co.jp</Data></Cell>
+        <Cell><Data ss:Type="String">大河住建株式会社</Data></Cell>
+        <Cell><Data ss:Type="String">aaaa</Data></Cell>
+        <Cell><Data ss:Type="String">代表取締役</Data></Cell>
+        <Cell><Data ss:Type="String">090-8747-9957</Data></Cell>
+        <Cell><Data ss:Type="String">03-3600-3795</Data></Cell>
+        <Cell><Data ss:Type="String">tel3</Data></Cell>
+        <Cell><Data ss:Type="String">03-3600-5737</Data></Cell>
+        <Cell><Data ss:Type="String">日本</Data></Cell>
+        <Cell><Data ss:Type="String">125-0032</Data></Cell>
+        <Cell><Data ss:Type="String">東京都</Data></Cell>
+        <Cell><Data ss:Type="String">葛飾区水元</Data></Cell>
+        <Cell><Data ss:Type="String">1-25-22</Data></Cell>
+        <Cell><Data ss:Type="String">urll</Data></Cell>
+        <Cell><Data ss:Type="String">電話1が携帯、電話2が会社？</Data></Cell>
+        <Cell><Data ss:Type="String"></Data></Cell>
+        <Cell><Data ss:Type="String"></Data></Cell>
+        <Cell><Data ss:Type="String"></Data></Cell>
+        <Cell><Data ss:Type="String"></Data></Cell>
+      </Row>
+    </Table>
+  </Worksheet>
+</Workbook>
